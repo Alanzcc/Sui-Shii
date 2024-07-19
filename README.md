@@ -7,3 +7,5 @@ To run the project you need to run the following commands:
 	cd ./build
 	make
 	./Sui-shii
+
+Working local connection with MongoDB with CMake and unfinished CRUD operations.
